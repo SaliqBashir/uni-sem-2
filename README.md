@@ -1,2 +1,1 @@
-# test
-how are we doing my nigga
+# This is my repository for IUST Semester 2 
